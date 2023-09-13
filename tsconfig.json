@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "module": "CommonJS",
+        "esModuleInterop": true,
+        "types": [
+            "node",
+            "@wdio/globals/types",
+            "expect-webdriverio",
+            "@wdio/mocha-framework",
+            "@wdio/appium-service"
+        ],
+        "resolveJsonModule": true, 
+        "target": "ES2017"
+    }
+}

@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Sep 04 21:58:06 EEST 2023","Mon Sep 04 21:58:29 EEST 2023","22657","","","","","","Create Site Visit",""
+"passed","Tue Sep 12 15:28:54 EEST 2023","Tue Sep 12 15:29:22 EEST 2023","28168","","","","","","Create Site Visit",""
+"broken","Tue Sep 12 16:11:34 EEST 2023","Tue Sep 12 16:13:40 EEST 2023","125100","","","","","","Create Site Visit",""
